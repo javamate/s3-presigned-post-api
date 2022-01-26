@@ -1,0 +1,15 @@
+{
+  "name": "s3-presigned-post",
+  "version": "1.0.0",
+  "description": "Function for getting an S3 presigned-post to use for directly uploading files to S3.",
+  "main": "s3-presigned-post.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mime": "^2.4.4",
+    "uuid": "^7.0.3"
+  }
+}
